@@ -1,4 +1,3 @@
 # my-project
 first time
-this is a test of my new reop 
-Hello
+this is a test of my new repo "Hello"
